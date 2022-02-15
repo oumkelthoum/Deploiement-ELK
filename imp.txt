@@ -1,0 +1,7 @@
+
+i should want to enable pfsense on the global ne
+
+yala n3adel pfsense y3oude ngede nede5lou mn tous les machines eli connectés 3le wifi 
+pfsense sur tous les réseaux
+block un site -sous domaine 
+configure pfsense pour qui'il bloque un site 
